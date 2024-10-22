@@ -41,6 +41,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         updateUI()
         // Do any additional setup after loading the view.
+        
     }
 
     @IBAction func answerButton(_ sender: UIButton) {
